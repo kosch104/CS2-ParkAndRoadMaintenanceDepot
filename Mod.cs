@@ -3,7 +3,7 @@ using Game;
 using Game.Modding;
 using Game.SceneFlow;
 
-namespace CustomAssetPack
+namespace ParkAndRoadMaintenanceDepotAssetPack
 {
     public class Mod : IMod
     {
@@ -12,7 +12,7 @@ namespace CustomAssetPack
 
         public void OnLoad(UpdateSystem updateSystem)
         {
-            log.Info("Loading Asset Pack " + nameof(CustomAssetPack));
+            log.Info("Loading Asset Pack " + nameof(ParkAndRoadMaintenanceDepotAssetPack));
         }
 
         public void OnDispose()
