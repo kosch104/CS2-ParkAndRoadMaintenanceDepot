@@ -1,19 +1,19 @@
 <Publish>
   <ModId Value="" />
-  <DisplayName Value="Example Pack (do not subscribe)" />
-  <ShortDescription Value="Example Pack Description" />
-  <LongDescription>## Asset Pack Name
-This asset packs adds xxx and yyy to the game
+  <DisplayName Value="Combined Park and Road Maintenance Depot" />
+  <ShortDescription Value="A combined Park and Road Maintenance Depot Asset" />
+  <LongDescription>## Park and Road Maintenance Depot
+  This Asset Pack adds a combined Park and Road Maintenance Depot asset to the game.
 
-## Added Assets:
-- Asset 1
-- Asset 2
-- Asset 3 (special)</LongDescription>
-  <Thumbnail Value="Properties/Thumbnail.png" />
-  <Screenshot Value="" />
+  It always bothered me that these depots are so big, especially the Road Maintenance depot. This asset adds a building on the lot of the Park Maintenance depot and offers combined functionality.
+  It has 8 cars that can be either Plows, Park Maintenance vehicles, Road Maintenance vehicles or a combination of all.
+  </LongDescription>
+  <Thumbnail Value="Properties/image1.jpg" />
+  <Screenshot Value="Properties/image1.jpg" />
+  <Screenshot Value="Properties/asset.jpg" />
   <Tag Value="Code Mod" />
-  <ForumLink Value="" />
-  <ModVersion Value="1.0" />
+  <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/park-and-road-maintenance-depot.1714028/" />
+  <ModVersion Value="1.0.0" />
   <GameVersion Value="1.1.*" />
   <Dependency Id="78903" />
   <ChangeLog>Initial release</ChangeLog>
