@@ -1,5 +1,5 @@
 <Publish>
-  <ModId Value="" />
+  <ModId Value="93816" />
   <DisplayName Value="Combined Park and Road Maintenance Depot" />
   <ShortDescription Value="A combined Park and Road Maintenance Depot Asset" />
   <LongDescription>## Park and Road Maintenance Depot
@@ -10,12 +10,13 @@
   </LongDescription>
   <Thumbnail Value="Properties/image1.jpg" />
   <Screenshot Value="Properties/image1.jpg" />
+  <Screenshot Value="Properties/image2.jpg" />
   <Screenshot Value="Properties/asset.jpg" />
   <Tag Value="Code Mod" />
   <ForumLink Value="https://forum.paradoxplaza.com/forum/threads/park-and-road-maintenance-depot.1714028/" />
-  <ModVersion Value="1.0.0" />
-  <GameVersion Value="1.1.*" />
+  <ModVersion Value="1.1.0" />
+  <GameVersion Value="1.2.*" />
   <Dependency Id="78903" />
-  <ChangeLog>Initial release</ChangeLog>
+  <ChangeLog>- Added Service Vehicle Parking and fixed Thumbnail</ChangeLog>
   <ExternalLink Type="discord" Url="https://discord.gg/UkKAfRqfCn" />
 </Publish>
